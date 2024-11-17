@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java-dev-practice.iml" filepath="$PROJECT_DIR$/.idea/java-dev-practice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sumAndAverage/sumOfAverage.iml" filepath="$PROJECT_DIR$/sumAndAverage/sumOfAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum-and-average/sum-and-average.iml" filepath="$PROJECT_DIR$/sum-and-average/sum-and-average.iml" />
     </modules>
   </component>
 </project>
